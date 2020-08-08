@@ -5,6 +5,7 @@ Agumented Reality app written using Swift + ARKit/SceneKit which tracks for 2 sp
 1) Deploy the app to a compatible iOS device
 2) Use https://limitlesstcg.com/tools/proxies/
 3) Find the following Pokemon cards: 
+    
     eevee (UPR 104)
     
     oddish (BUS 4)
