@@ -6,6 +6,7 @@ Agumented Reality app written using Swift + ARKit/SceneKit which tracks for 2 sp
 2) Use https://limitlesstcg.com/tools/proxies/
 3) Find the following Pokemon cards: 
     eevee (UPR 104)
+    
     oddish (BUS 4)
     
     You can print these cards, own the physical copy of the card, or display them on a 2ndary phone's display.
