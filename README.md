@@ -10,6 +10,6 @@ Agumented Reality app written using Swift + ARKit/SceneKit which tracks for 2 sp
     
     oddish (BUS 4)
     
-    You can print these cards, own the physical copy of the card, or display them on a 2ndary phone's display.
+    You can print these cards, own the physical copy of the card, or display them on a secondary phone's display.
     
 4) With the Poke3D app running on a device, point the devices camera at the Pokemon cards in step 3).  The idenfitied Pokemon should be rendered.
