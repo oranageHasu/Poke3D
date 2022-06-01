@@ -4,7 +4,7 @@ Agumented Reality app written using Swift + ARKit/SceneKit which tracks for 2 sp
 
 1) Deploy the app to a compatible iOS device
 2) Use https://limitlesstcg.com/tools/proxies/
-3) Find the following Pokemon cards: 
+3) Find the following physical Pokemon cards: 
     
     eevee (UPR 104)
     
@@ -12,4 +12,4 @@ Agumented Reality app written using Swift + ARKit/SceneKit which tracks for 2 sp
     
     You can print these cards, own the physical copy of the card, or display them on a secondary phone's display.
     
-4) With the Poke3D app running on a device, point the devices camera at the Pokemon cards in step 3).  The idenfitied Pokemon should be rendered.
+4) With the Poke3D app running on a device, point the devices camera at the Pokemon cards in step 3).  The identified Pokemon should be rendered in AR.
